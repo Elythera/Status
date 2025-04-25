@@ -3,8 +3,14 @@ owner: Elythera # Your GitHub organization or username, where this repository li
 repo: Status # The name of this repository
 
 sites:
-  - name: Site principal
+  - name: Site Principal
     url: https://www.elythera.com
+  - name: Nextcloud
+    url: https://nc.elythera.com
+  - name: Gitea
+    url: https://git.elythera.com
+  - name: Pterodactyl
+    url: https://pt.elythera.com
   - name: IPv6 test
     url: forwardemail.net
     port: 80
@@ -18,13 +24,13 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Elythera Status
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Bienvenue** sur la page status d'Elythera."
+  introMessage: Au cas où, si un incident survient sur nos services, vous en serez alors informés sur cette page
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+    - title: Discord
+      href: https://discord.gg/Vg7egG3RZC
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
