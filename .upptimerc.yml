@@ -22,6 +22,8 @@ status-website:
   introTitle: "**Bienvenue** sur la page status d'Elythera."
   introMessage: Au cas où, si un incident survient sur nos services, vous en serez alors informés sur cette page
   navbar:
+    - title: Accueil
+      href: https://elythera.com
     - title: Status
       href: /
     - title: Discord
