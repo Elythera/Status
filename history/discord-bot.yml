@@ -1,0 +1,7 @@
+url: ${{ secrets.DISCORD_BOT }}
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-04-28T23:07:53.404Z
+startTime: 2025-04-28T23:07:53.400Z
+generator: Upptime <https://github.com/upptime/upptime>
