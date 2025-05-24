@@ -89,7 +89,7 @@
     "url": "$DISCORD_BOT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "discord-bot",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "99.68%",
     "uptimeWeek": "99.95%",
