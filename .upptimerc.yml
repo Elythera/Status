@@ -10,8 +10,8 @@ sites:
   - name: Gitea
     url: https://git.elythera.com
   - name: Pterodactyl
-    url: https://pt.elythera.com
-  - name: Discord (Bot)
+    url: $STATUS_PTERODACTYL
+  - name: Discord
     url: $DISCORD_BOT
 
 status-website:
