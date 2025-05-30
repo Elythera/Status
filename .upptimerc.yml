@@ -13,8 +13,6 @@ sites:
     url: $STATUS_PTERODACTYL
   - name: Discord
     url: $DISCORD_BOT
-  - name: BetterCrewlink
-    url: $STATUS_BCL
   - name: NSurvival
     check: "tcp-ping"
     url: $STATUS_NSURV_URL
