@@ -1,7 +1,7 @@
 url: $STATUS_PTERODACTYL
-status: up
-code: 200
-responseTime: 1254
-lastUpdated: 2025-06-18T22:32:09.972Z
+status: down
+code: 502
+responseTime: 573
+lastUpdated: 2025-06-18T22:44:38.302Z
 startTime: 2025-04-25T09:12:21.367Z
 generator: Upptime <https://github.com/upptime/upptime>
