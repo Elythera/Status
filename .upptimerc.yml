@@ -11,10 +11,10 @@ sites:
     url: $STATUS_PTERODACTYL
   - name: Discord
     url: $DISCORD_BOT
-  - name: Minecraft CVG
+  - name: Elythera Minecraft
     check: "tcp-ping"
-    url: $STATUS_NODE_URL
-    port: $STATUS_P2R_PORT
+    url: elythera.com
+    port: 25565
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
