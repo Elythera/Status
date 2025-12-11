@@ -7,13 +7,11 @@ sites:
     url: https://www.elythera.com
   - name: Nextcloud
     url: https://nc.elythera.com
-  - name: Gitea
-    url: https://git.elythera.com
   - name: Pterodactyl
     url: $STATUS_PTERODACTYL
   - name: Discord
     url: $DISCORD_BOT
-  - name: Minecraft P2R
+  - name: Minecraft CVG
     check: "tcp-ping"
     url: $STATUS_NODE_URL
     port: $STATUS_P2R_PORT
